@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLServerTierCalaculator", "SQLServerTierCalaculator.csproj", "{3B7E3B4B-F4C4-4BC3-84C6-A02CD4CDD74B}"
+EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "ARForFunctions", "..\ARForFunctions\ARForFunctions.deployproj", "{F07CB050-2D58-46D2-8682-79331578E941}"
+EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "ARForLogicApp", "..\ARForLogicApp\ARForLogicApp.deployproj", "{EC9969DB-E3CD-4FC6-BB20-AF4735A5367C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B7E3B4B-F4C4-4BC3-84C6-A02CD4CDD74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7E3B4B-F4C4-4BC3-84C6-A02CD4CDD74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7E3B4B-F4C4-4BC3-84C6-A02CD4CDD74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7E3B4B-F4C4-4BC3-84C6-A02CD4CDD74B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F07CB050-2D58-46D2-8682-79331578E941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07CB050-2D58-46D2-8682-79331578E941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07CB050-2D58-46D2-8682-79331578E941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07CB050-2D58-46D2-8682-79331578E941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC9969DB-E3CD-4FC6-BB20-AF4735A5367C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9969DB-E3CD-4FC6-BB20-AF4735A5367C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9969DB-E3CD-4FC6-BB20-AF4735A5367C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9969DB-E3CD-4FC6-BB20-AF4735A5367C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D83759C-27A3-4808-9467-E07E8E1C737B}
+	EndGlobalSection
+EndGlobal
